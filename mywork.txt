@@ -1,0 +1,22 @@
+My associate id:
+844426
+Other team members:
+844439, 844437, 844418, 844419
+Team lead:
+844428
+My Role in team:
+1. To develop  contact us and models component
+My development files:
+1. contact-us.component.ts
+2. package.json
+3. contact-us.component.css
+4. contact-us.component.html
+5. place-appointment.ts
+I was strong in:
+1. Template Driven Forms
+2. HttpClient
+3. Documentation
+I was weak in:
+1. Reactive Forms 
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
